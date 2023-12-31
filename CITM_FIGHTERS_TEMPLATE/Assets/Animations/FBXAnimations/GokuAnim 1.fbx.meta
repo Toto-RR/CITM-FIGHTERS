@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: 7653a143003bbde4e878c0463d72eae9
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Goku_Spine_01SHJnt' has translation animation
+      that will be discarded.\n\t'Goku_Spine_02SHJnt' has translation animation that
+      will be discarded.\n\t'Goku_Spine_TopSHJnt' has translation animation that
+      will be discarded.\n\t'Goku_l_Leg_BallSHJnt' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'Goku_r_Leg_BallSHJnt'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkForward
+      takeName: Take 001
+      internalID: 9067093048684652814
+      firstFrame: 40
+      lastFrame: 54
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkBackward
+      takeName: Take 001
+      internalID: 3060872287085348379
+      firstFrame: 80
+      lastFrame: 94
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: EvadeLowAttack
+      takeName: Take 001
+      internalID: 6641085478485924818
+      firstFrame: 120
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LowQuickAttack
+      takeName: Take 001
+      internalID: -5059006814000262888
+      firstFrame: 170
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: LowSlowAttack
+      takeName: Take 001
+      internalID: 6234510843852800090
+      firstFrame: 210
+      lastFrame: 255
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: QuickAttack
+      takeName: Take 001
+      internalID: -6788666626592393668
+      firstFrame: 260
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SlowAttack
+      takeName: Take 001
+      internalID: 1702301948168947093
+      firstFrame: 295
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: DodgeHighAttack
+      takeName: Take 001
+      internalID: 9093586079265926502
+      firstFrame: 345
+      lastFrame: 375
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      internalID: -4045831500588228705
+      firstFrame: 380
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Win
+      takeName: Take 001
+      internalID: 7731641710072435382
+      firstFrame: 420
+      lastFrame: 450
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Goku_ROOTSHJnt
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Leg_HipSHJnt
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Leg_HipSHJnt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Leg_KneeSHJnt
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Leg_KneeSHJnt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Leg_AnkleSHJnt
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Leg_AnkleSHJnt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Spine_01SHJnt
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Spine_02SHJnt
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Neck_AuxSHJnt
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Head_AuxSHJnt
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Arm_ClavicleSHJnt
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Arm_ClavicleSHJnt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Arm_ShoulderSHJnt
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Arm_ShoulderSHJnt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Arm_ElbowSHJnt
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Arm_ElbowSHJnt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Arm_WristSHJnt
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Arm_WristSHJnt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Leg_ToeSHJnt
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Leg_ToeSHJnt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Hair2_AuxSHJnt
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Hair3_AuxSHJnt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Thumb_01_01SHJnt
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Thumb_01_02SHJnt
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Thumb_01_03SHJnt
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_01_01SHJnt
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_01_02SHJnt
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_01_03SHJnt
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_02_01SHJnt
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_02_02SHJnt
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_02_03SHJnt
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_03_01SHJnt
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_03_02SHJnt
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_03_03SHJnt
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_04_01SHJnt
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_04_02SHJnt
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_l_Finger_04_03SHJnt
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Thumb_01_01SHJnt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Thumb_01_02SHJnt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Thumb_01_03SHJnt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_01_01SHJnt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_01_02SHJnt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_01_03SHJnt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_02_01SHJnt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_02_02SHJnt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_02_03SHJnt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_03_01SHJnt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_03_02SHJnt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_03_03SHJnt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_04_01SHJnt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_04_02SHJnt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_r_Finger_04_03SHJnt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Goku_Spine_TopSHJnt
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: GokuAnim 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: GokuMesh
+      parentName: GokuAnim 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Hand
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Hand
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Normal_Hair
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SuperSaiyan_Hair
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Arm
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Arm
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: R_Lace
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Lace
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face1
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face2
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face3
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face4
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Face5
+      parentName: GokuMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku
+      parentName: GokuAnim 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku_SHJntGrp
+      parentName: Goku
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku_ROOTSHJnt
+      parentName: Goku_SHJntGrp
+      position: {x: 0, y: 0.4156654, z: 0}
+      rotation: {x: -2.5410988e-17, y: -0.000000011641532, z: 7.2759576e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku_l_Leg_HipSHJnt
+      parentName: Goku_ROOTSHJnt
+      position: {x: -0.040359166, y: -0.026013106, z: -2.220446e-18}
+      rotation: {x: -0.008325688, y: 0.008325704, z: 0.70705783, w: 0.7070578}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku_l_Leg_KneeSHJnt
+      parentName: Goku_l_Leg_HipSHJnt
+      position: {x: -0.13493517, y: -4.973799e-16, z: 3.5527136e-17}
+      rotation: {x: -0, y: -0.01995741, z: -0.00000010958318, w: 0.9998008}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Goku_l_Leg_AnkleSHJnt
+      parentName: Goku_l_Leg_KneeSHJnt
+      position: {x: -0.19412227, y: -7.016609e-16, z: -1.0658141e-16}
+      rotation: {x: -0.00000002343977, y: 0.008171706, z: 0.00000003725137, w: 0.9999666}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000001}
+    - name: Goku_l_Leg_BallSHJnt
+      parentName: Goku_l_Leg_AnkleSHJnt
+      position: {x: -0.049306702, y: -1.4210854e-16, z: 0.05190972}
+      rotation: {x: -0.000000016935227, y: 0.7071069, z: 0.00000007233896, w: 0.70710677}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Goku_l_Leg_ToeSHJnt
+      parentName: Goku_l_Leg_BallSHJnt
+      position: {x: -0.04719772, y: 0, z: -2.4424906e-17}
+      rotation: {x: -0, y: -0, z: 8.881783e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: Goku_r_Leg_HipSHJnt
+      parentName: Goku_ROOTSHJnt
+      position: {x: 0.040359166, y: -0.026013106, z: 3.330669e-18}
+      rotation: {x: -0.008325844, y: 0.008325845, z: 0.7070577, w: 0.70705783}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Goku_r_Leg_KneeSHJnt
+      parentName: Goku_r_Leg_HipSHJnt
+      position: {x: -0.13493517, y: -4.973799e-16, z: 0}
+      rotation: {x: 0.000000014435498, y: -0.019957738, z: 0.000000037838614, w: 0.9998008}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: Goku_r_Leg_AnkleSHJnt
+      parentName: Goku_r_Leg_KneeSHJnt
+      position: {x: -0.19412227, y: -8.348877e-16, z: 3.5527136e-17}
+      rotation: {x: -0.000000014290487, y: 0.0081718145, z: 0.000000038555836, w: 0.9999666}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Goku_r_Leg_BallSHJnt
+      parentName: Goku_r_Leg_AnkleSHJnt
+      position: {x: -0.049306702, y: -1.9539925e-16, z: 0.05190972}
+      rotation: {x: 0.0000000013458994, y: 0.7071069, z: 0.000000029172298, w: 0.70710677}
+      scale: {x: 1.0000005, y: 1, z: 0.9999999}
+    - name: Goku_r_Leg_ToeSHJnt
+      parentName: Goku_r_Leg_BallSHJnt
+      position: {x: -0.04719772, y: 3.5527136e-17, z: 2.881972e-17}
+      rotation: {x: -0, y: -0, z: -8.881783e-16, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999976}
+    - name: Goku_Spine_01SHJnt
+      parentName: Goku_ROOTSHJnt
+      position: {x: -4.0145454e-10, y: 0.047624543, z: -0.001481619}
+      rotation: {x: -0.0061074668, y: 0.000000023287074, z: -5.8538163e-10, w: 0.99998134}
+      scale: {x: 1, y: 1, z: 1.0000005}
+    - name: Goku_Spine_02SHJnt
+      parentName: Goku_Spine_01SHJnt
+      position: {x: 8.740811e-11, y: 0.051547684, z: 0.0019134278}
+      rotation: {x: -0.002346994, y: 3.1784353e-11, z: -0.0000000021825561, w: 0.99999726}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: Goku_Spine_TopSHJnt
+      parentName: Goku_Spine_02SHJnt
+      position: {x: 3.1404646e-10, y: 0.04446893, z: -0.011162728}
+      rotation: {x: 0.00597816, y: 0.0059781605, z: -0.70708156, w: 0.70708156}
+      scale: {x: 1.0000019, y: 1.0000024, z: 1}
+    - name: Goku_l_Arm_ClavicleSHJnt
+      parentName: Goku_Spine_TopSHJnt
+      position: {x: 0.010013402, y: -0.027189588, z: 0.013358578}
+      rotation: {x: -0.044804454, y: 0.044804435, z: 0.7262604, w: 0.6844932}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.99999917}
+    - name: Goku_l_Arm_ShoulderSHJnt
+      parentName: Goku_l_Arm_ClavicleSHJnt
+      position: {x: -0.029247124, y: 0.0062151393, z: -0.013334159}
+      rotation: {x: 0.0004160739, y: -0.030931527, z: -0.007147013, w: 0.99949586}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: Goku_l_Arm_ElbowSHJnt
+      parentName: Goku_l_Arm_ShoulderSHJnt
+      position: {x: -0.114517115, y: -2.1316282e-16, z: -3.5527136e-17}
+      rotation: {x: 0.000000031170195, y: 0.000026783899, z: -0.00000008689094, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000008}
+    - name: Goku_l_Arm_WristSHJnt
+      parentName: Goku_l_Arm_ElbowSHJnt
+      position: {x: -0.08475797, y: 0, z: -5.3290704e-17}
+      rotation: {x: 0.00036779625, y: -0.005397381, z: 0.031502686, w: 0.99948907}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999998}
+    - name: Goku_l_Finger_02_01SHJnt
+      parentName: Goku_l_Arm_WristSHJnt
+      position: {x: -0.037986245, y: 0.008684371, z: 0.001821615}
+      rotation: {x: 0.000062163446, y: 0.004279627, z: -0.032325376, w: 0.99946827}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000004}
+    - name: Goku_l_Finger_02_02SHJnt
+      parentName: Goku_l_Finger_02_01SHJnt
+      position: {x: -0.017832272, y: -1.4210854e-16, z: 5.7731595e-17}
+      rotation: {x: 0.0000000042127795, y: 0.00000007543713, z: -0.022034572, w: 0.9997573}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Goku_l_Finger_02_03SHJnt
+      parentName: Goku_l_Finger_02_02SHJnt
+      position: {x: -0.01658044, y: -0.0019183367, z: -1.0658141e-16}
+      rotation: {x: -6.7402034e-10, y: -0.00000003836958, z: 0.1342573, w: 0.9909466}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000004}
+    - name: Goku_l_Finger_01_01SHJnt
+      parentName: Goku_l_Arm_WristSHJnt
+      position: {x: -0.03635406, y: 0.007021276, z: 0.011451617}
+      rotation: {x: -0.0036109572, y: 0.0737854, z: -0.045458276, w: 0.9962311}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000002}
+    - name: Goku_l_Finger_01_02SHJnt
+      parentName: Goku_l_Finger_01_01SHJnt
+      position: {x: -0.01886094, y: 1.4210854e-16, z: -4.440892e-18}
+      rotation: {x: 0.00000006938351, y: -0, z: -0.00000013186941, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: Goku_l_Finger_01_03SHJnt
+      parentName: Goku_l_Finger_01_02SHJnt
+      position: {x: -0.01272711, y: 0.00014740092, z: -6.661338e-17}
+      rotation: {x: -0.0000000113126015, y: -0.000000020991171, z: 0.1269919, w: 0.9919037}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Goku_l_Finger_03_01SHJnt
+      parentName: Goku_l_Arm_WristSHJnt
+      position: {x: -0.03556035, y: 0.008472554, z: -0.007964968}
+      rotation: {x: -0.0079525225, y: -0.00741184, z: -0.11934611, w: 0.99279326}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: Goku_l_Finger_03_02SHJnt
+      parentName: Goku_l_Finger_03_01SHJnt
+      position: {x: -0.017175287, y: -0.0025370775, z: 1.7763568e-17}
+      rotation: {x: -0.00000004190949, y: -0.00000021001311, z: 0.119515605, w: 0.9928323}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: Goku_l_Finger_03_03SHJnt
+      parentName: Goku_l_Finger_03_02SHJnt
+      position: {x: -0.017553972, y: 0.0003270608, z: -2.664535e-16}
+      rotation: {x: 0.000000052290307, y: -0.000000010366616, z: 0.12114775, w: 0.9926345}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: Goku_l_Finger_04_01SHJnt
+      parentName: Goku_l_Arm_WristSHJnt
+      position: {x: -0.033533707, y: 0.0044758827, z: -0.017972691}
+      rotation: {x: -0.03471521, y: -0.019736335, z: -0.05193284, w: 0.99785185}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: Goku_l_Finger_04_02SHJnt
+      parentName: Goku_l_Finger_04_01SHJnt
+      position: {x: -0.01715534, y: -3.5527135e-16, z: 0.00045174724}
+      rotation: {x: -0.026015371, y: 0.015665375, z: -0.10731942, w: 0.99376076}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: Goku_l_Finger_04_03SHJnt
+      parentName: Goku_l_Finger_04_02SHJnt
+      position: {x: -0.012813745, y: -0.0037509098, z: 1.4210854e-16}
+      rotation: {x: 0.000000022351735, y: 0.00000004470347, z: 0.343967, w: 0.9389818}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: Goku_l_Thumb_01_01SHJnt
+      parentName: Goku_l_Arm_WristSHJnt
+      position: {x: -0.01398269, y: -0.005170079, z: 0.012857698}
+      rotation: {x: -0.043050352, y: 0.37885723, z: 0.012463269, w: 0.9243692}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000004}
+    - name: Goku_l_Thumb_01_02SHJnt
+      parentName: Goku_l_Thumb_01_01SHJnt
+      position: {x: -0.017735982, y: -9.237055e-16, z: 0.0008548666}
+      rotation: {x: -0.000000070780516, y: 0.07873139, z: -0.0000005327165, w: 0.9968959}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Goku_l_Thumb_01_03SHJnt
+      parentName: Goku_l_Thumb_01_02SHJnt
+      position: {x: -0.013727814, y: -4.973799e-16, z: -0.0025694089}
+      rotation: {x: -0.000000008391627, y: -0.21166632, z: -0.0000002106406, w: 0.97734207}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: Goku_r_Arm_ClavicleSHJnt
+      parentName: Goku_Spine_TopSHJnt
+      position: {x: 0.010013402, y: 0.027189588, z: 0.013358578}
+      rotation: {x: 0.044804502, y: -0.044804517, z: 0.68449306, w: 0.72626054}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.99999905}
+    - name: Goku_r_Arm_ShoulderSHJnt
+      parentName: Goku_r_Arm_ClavicleSHJnt
+      position: {x: 0.029247124, y: 0.0062151393, z: -0.013334159}
+      rotation: {x: 0.0004160888, y: 0.030931592, z: 0.0071472577, w: 0.99949586}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1.0000001}
+    - name: Goku_r_Arm_ElbowSHJnt
+      parentName: Goku_r_Arm_ShoulderSHJnt
+      position: {x: 0.114517115, y: -2.842171e-16, z: 5.3290704e-17}
+      rotation: {x: -0.000000036103298, y: -0.000026727092, z: 0.000000025469543, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.0000004}
+    - name: Goku_r_Arm_WristSHJnt
+      parentName: Goku_r_Arm_ElbowSHJnt
+      position: {x: 0.08475797, y: -7.105427e-17, z: 7.9936054e-17}
+      rotation: {x: 0.00036787122, y: 0.005397385, z: -0.03150355, w: 0.999489}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Goku_r_Finger_02_01SHJnt
+      parentName: Goku_r_Arm_WristSHJnt
+      position: {x: 0.037986245, y: 0.008684371, z: 0.001821615}
+      rotation: {x: 0.00006215322, y: -0.004279881, z: 0.032326512, w: 0.9994682}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Goku_r_Finger_02_02SHJnt
+      parentName: Goku_r_Finger_02_01SHJnt
+      position: {x: 0.017832272, y: -1.7763568e-17, z: 0}
+      rotation: {x: 0.0000000235741, y: 0.0000002523884, z: 0.02203291, w: 0.9997573}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Goku_r_Finger_02_03SHJnt
+      parentName: Goku_r_Finger_02_02SHJnt
+      position: {x: 0.01658044, y: -0.0019183367, z: 7.105427e-17}
+      rotation: {x: -0.0000000323704, y: 0.0000000488094, z: -0.13425735, w: 0.99094653}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Goku_r_Finger_01_01SHJnt
+      parentName: Goku_r_Arm_WristSHJnt
+      position: {x: 0.03635406, y: 0.007021276, z: 0.011451617}
+      rotation: {x: -0.0036109437, y: -0.073785625, z: 0.045457873, w: 0.9962311}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999999}
+    - name: Goku_r_Finger_01_02SHJnt
+      parentName: Goku_r_Finger_01_01SHJnt
+      position: {x: 0.01886094, y: 8.8817837e-17, z: 7.105427e-17}
+      rotation: {x: -0.0000000069849166, y: 0.000000014901156, z: 0.0000000024447209, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: Goku_r_Finger_01_03SHJnt
+      parentName: Goku_r_Finger_01_02SHJnt
+      position: {x: 0.01272711, y: 0.00014740092, z: 0}
+      rotation: {x: 0.000000006725214, y: -0.000000006442906, z: -0.12699184, w: 0.9919037}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: Goku_r_Finger_03_01SHJnt
+      parentName: Goku_r_Arm_WristSHJnt
+      position: {x: 0.03556035, y: 0.008472554, z: -0.007964968}
+      rotation: {x: -0.007952548, y: 0.007411397, z: 0.11934806, w: 0.99279296}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Goku_r_Finger_03_02SHJnt
+      parentName: Goku_r_Finger_03_01SHJnt
+      position: {x: 0.017175287, y: -0.0025370775, z: 1.4210854e-16}
+      rotation: {x: -0.00000010244545, y: 0.000000048894417, z: -0.119515136, w: 0.9928324}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Goku_r_Finger_03_03SHJnt
+      parentName: Goku_r_Finger_03_02SHJnt
+      position: {x: 0.017553972, y: 0.0003270608, z: -2.1316282e-16}
+      rotation: {x: 0.00000009901826, y: -0.000000064431866, z: -0.12114775, w: 0.99263453}
+      scale: {x: 1, y: 1.0000005, z: 1.0000004}
+    - name: Goku_r_Finger_04_01SHJnt
+      parentName: Goku_r_Arm_WristSHJnt
+      position: {x: 0.033533707, y: 0.0044758827, z: -0.017972691}
+      rotation: {x: -0.034714818, y: 0.019735755, z: 0.051933344, w: 0.9978519}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.9999999}
+    - name: Goku_r_Finger_04_02SHJnt
+      parentName: Goku_r_Finger_04_01SHJnt
+      position: {x: 0.01715534, y: -3.08642e-16, z: 0.00045174724}
+      rotation: {x: -0.026015373, y: -0.015665619, z: 0.10731943, w: 0.99376076}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000002}
+    - name: Goku_r_Finger_04_03SHJnt
+      parentName: Goku_r_Finger_04_02SHJnt
+      position: {x: 0.012813745, y: -0.0037509098, z: -3.5527135e-16}
+      rotation: {x: -0.000000048428774, y: 0.000000044703484, z: -0.34396723, w: 0.9389817}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: Goku_r_Thumb_01_01SHJnt
+      parentName: Goku_r_Arm_WristSHJnt
+      position: {x: 0.01398269, y: -0.005170079, z: 0.012857698}
+      rotation: {x: -0.04305012, y: -0.37885776, z: -0.012463274, w: 0.92436904}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Goku_r_Thumb_01_02SHJnt
+      parentName: Goku_r_Thumb_01_01SHJnt
+      position: {x: 0.017735982, y: -1.1368684e-15, z: 0.0008548666}
+      rotation: {x: 0.0000000745058, y: -0.078730665, z: 0.00000016391276, w: 0.9968959}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999994}
+    - name: Goku_r_Thumb_01_03SHJnt
+      parentName: Goku_r_Thumb_01_02SHJnt
+      position: {x: 0.013727814, y: -3.1974422e-16, z: -0.0025694089}
+      rotation: {x: 0.000000009753126, y: 0.21166633, z: 0.000000019526635, w: 0.977342}
+      scale: {x: 0.9999999, y: 1, z: 1.0000002}
+    - name: Goku_Neck_AuxSHJnt
+      parentName: Goku_Spine_TopSHJnt
+      position: {x: -0.02105247, y: 1.7763568e-17, z: -0.0057862345}
+      rotation: {x: 9.313226e-10, y: -0.000000011641532, z: 0.7071068, w: 0.7071068}
+      scale: {x: 0.9999997, y: 0.9999996, z: 0.99999905}
+    - name: Goku_Head_AuxSHJnt
+      parentName: Goku_Neck_AuxSHJnt
+      position: {x: -2.8865798e-17, y: 0.028015072, z: 0.0023012666}
+      rotation: {x: 0.000000012512347, y: -0.000000026341777, z: 1.9949318e-17, w: 1}
+      scale: {x: 0.99999994, y: 0.9999992, z: 1.0000012}
+    - name: Goku_Hair1_AuxSHJnt
+      parentName: Goku_Head_AuxSHJnt
+      position: {x: 1.7763568e-17, y: 0.071775876, z: -0.004405447}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999934, y: 1, z: 0.9999996}
+    - name: Goku_Hair2_AuxSHJnt
+      parentName: Goku_Hair1_AuxSHJnt
+      position: {x: -1.7763568e-17, y: 0.06722522, z: -0.027959783}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Goku_Hair3_AuxSHJnt
+      parentName: Goku_Head_AuxSHJnt
+      position: {x: 3.5527136e-17, y: 0.05969013, z: 0.045215063}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999934, y: 1, z: 0.9999996}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
