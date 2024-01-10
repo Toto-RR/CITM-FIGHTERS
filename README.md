@@ -25,4 +25,34 @@ The backward animation is the animation that is played when the player wants to 
 
 https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/c53819f1-6ac0-4815-99a5-ad84952db3b8
 
+### Evade Low Attack
+A high jump
 
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/19fac8ed-3330-46ea-a78c-e67d24f1c779
+
+### Dodge High Attack
+A quick dodge from a high attack
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/dd85ecd0-2822-4c9b-ae96-3b8305787506
+
+### Low Slow Attack
+A slow but powerful kick
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/b162350c-92b4-408f-bdd0-de51614d40e5
+
+### Slow Attack
+A slow but powerful punch
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/bb6d78e4-cb0c-4107-b1f9-ace641e2fe32
+
+### Low Quick Attack
+A fast kick
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/6a09abe6-a203-4645-b20a-354a7514b48c
+
+### Quick Attack
+A quick pair of punches 
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/c0ab6c7d-f589-485b-aeb1-c6919084cdfe
+
+### 
