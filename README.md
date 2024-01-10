@@ -1,4 +1,4 @@
-# CITM-FIGHTERS
+# CITM FIGHTERS
 CITM Fighters is a 2-player videogame created with Unity for the Animació 3D course. This game consists of a "Street Fighters" style martial arts combat in which the player who hits first wins.
 
 The fighters are two models of Goku (Dragon Ball Z), who must hit the other first to win, you can play both in controller and keyboard and mouse.
@@ -15,7 +15,6 @@ Here we can see a few reference pictures of the project and its build, as well a
 ![MainMenu](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/7d04861f-4ff0-4ffc-abba-11ca11e2d207)
 ![GameLevelWithoutPlayers](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/4153d57c-d57f-4ee1-b099-8c9b4d916ef4)
 ![GameLevelWithPlayers](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/fba2dc64-a1bc-4a74-95b1-39f634e0171d)
-
 
 ## Animations 
 ### Idle Animation 
