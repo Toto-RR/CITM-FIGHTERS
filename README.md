@@ -20,3 +20,9 @@ The forward animation is executed when the player wants to move towards the dire
 
 https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/364c6ebe-ac03-432c-9408-c9d463cec0b6
 
+### Backward Animation
+The backward animation is the animation that is played when the player wants to go backwards.
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/c53819f1-6ac0-4815-99a5-ad84952db3b8
+
+
