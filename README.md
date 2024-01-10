@@ -8,3 +8,10 @@ The model and scenery have been provided by the teacher, but the animations are 
 This is the link to the playlist used for the [animations](<https://youtube.com/playlist?list=PLaRfrYhnHLeMmbCPezzNNkOYi2kzZXEYp&si=0E9fONrFTFp0BnLL>).
 
 And this is my GitHub profile: [Toto-RR](<https://github.com/Toto-RR>)
+
+## Animations 
+### Idle Animation 
+The idle animation is the animation that is played when no action is being performed on the character.
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/f488109d-f372-478e-8aac-88a3271744f2
+
