@@ -63,5 +63,15 @@ The Quick Attack animation lasts 30 seconds, it is a fast animation as it is spr
 
 https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/c0ab6c7d-f589-485b-aeb1-c6919084cdfe
 
+### Die
+The defeat animation lasts 30 seconds, this animation has no return to Idle Position, as the character is left lying on the ground until the game is restarted.
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/a9d4c813-324e-409d-944a-d4947ffe050c
+
+### Win
+The victory animation lasts 30 seconds, just like the defeat animation, this animation does not return to the Idle Position, since it remains in the victory position until the restart of the game.
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/08de78b3-16c8-4425-a62c-25788c1f05c1
+
 ## References 
 Of course, the animations are not completely invented, I have taken inspiration from various videos and youtube channels to get ideas and references on how to make the movements. Check out that list [HERE](<https://youtube.com/playlist?list=PLaRfrYhnHLeMmbCPezzNNkOYi2kzZXEYp&si=dvfUFoILNyzf2knO>)
