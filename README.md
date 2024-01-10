@@ -15,3 +15,8 @@ The idle animation is the animation that is played when no action is being perfo
 
 https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/f488109d-f372-478e-8aac-88a3271744f2
 
+### Forward Animation
+The forward animation is executed when the player wants to move towards the direction in which his character is facing
+
+https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/364c6ebe-ac03-432c-9408-c9d463cec0b6
+
