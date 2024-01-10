@@ -12,6 +12,10 @@ And this is my GitHub profile: [Toto-RR](<https://github.com/Toto-RR>)
 ## The Game
 Here we can see a few reference pictures of the project and its build, as well as a 2 minutes gameplay of the game.
 
+![MainMenu](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/7d04861f-4ff0-4ffc-abba-11ca11e2d207)
+![GameLevelWithoutPlayers](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/4153d57c-d57f-4ee1-b099-8c9b4d916ef4)
+![GameLevelWithPlayers](https://github.com/Toto-RR/CITM-FIGHTERS/assets/99719601/fba2dc64-a1bc-4a74-95b1-39f634e0171d)
+
 
 ## Animations 
 ### Idle Animation 
